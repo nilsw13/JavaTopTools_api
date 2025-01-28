@@ -67,12 +67,12 @@ The API implements Spring Security with CORS configuration to allow requests fro
 
 👥 Authors
 
-nilsw13 -  - https://github.com/nilsw13
+[Nilsw13](https://github.com/nilsw13)
 
 📌 Acknowledgments
 
 Thanks to GitHub for providing their API
 Spring Boot team for the amazing framework
 
-
+👉 Liens
 [Front-end repository](https://github.com/nilsw13/JavaTopTools_front)
