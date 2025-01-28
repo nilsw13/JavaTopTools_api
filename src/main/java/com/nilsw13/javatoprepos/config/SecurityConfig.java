@@ -50,7 +50,8 @@ public class SecurityConfig {
 
         // Configuration des origines autorisées
         configuration.setAllowedOrigins(Arrays.asList(
-                        "http://localhost:5173"
+                        "http://localhost:5173",
+                        "https://java-top-tools-front.vercel.app/"
 
                 )
 

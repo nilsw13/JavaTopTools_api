@@ -6,6 +6,8 @@ target/
 
 **/src/main/resources/application.properties
 src/main/ressources/application.properties
+**/src/main/resources/application-pro.properties
+src/main/ressources/application-pro.properties
 
 ### STS ###
 .apt_generated
