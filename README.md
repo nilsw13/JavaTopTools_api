@@ -64,6 +64,15 @@ per_page (optional): Repositories per page (default: 30)
 🔒 Security
 The API implements Spring Security with CORS configuration to allow requests from specified origins. The security configuration allows public access to the API endpoints while protecting against common web vulnerabilities.
 
+## 🤝 Contribuer
+
+  -Fork project 
+  -Create new branch (git checkout -b my-feature)
+  -Commit (git commit -m 'add feature')
+  -Push (git push origin my-feature)
+  -Open a pull request ✨
+
+
 
 👥 Authors
 
